@@ -1,0 +1,33 @@
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    /* overflow: auto; */
+  }
+  
+ 
+  .work img {
+    width: 100%;
+    border:  none;
+    opacity: none;
+  }
+  
+  .navbar-brand #logo {
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+  }
+
+  h3 {
+    font-size: 18px;
+    color: teal;
+  }
