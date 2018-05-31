@@ -1,1 +1,2 @@
 # Bootstrap-Portfolio
+For the portfolio.html, I was trying to have 3 images per row on a large screen, 2 on a medium screen, and 1 on a small screen. I wasn't successful, so Morgan looked at it and suggested that doing that would require JavaScript, and since we aren't doing that at this time, she suggested I do 2 per row.

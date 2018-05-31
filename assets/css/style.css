@@ -13,27 +13,13 @@
     opacity: none;
   }
   
-  .navbar-brand #logo {
-    float: left;
-    width: 250px;
-    height: 90px;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-size: 30px;
-    font-weight: 700;
-    line-height: 90px;
-    color: #fff;
-    text-align: center;
-    text-decoration: none;
-    background: #4aaaa5;
+  h3 {
+    font-size: 32px;
+    color: black;
+    
   }
-
-  .work img {
-    width: 100%;
-    border: 0 none;
-  }
-  
   .work h3 {
-    position: absolute;
+    /* position: absolute; */
     bottom: 20px;
     width: 100%;
     padding: 15px;
@@ -42,7 +28,7 @@
     line-height: 30px;
     color: #fff;
     text-align: center;
-    background: #4aaaa5;
+    background: darkgray;
     border-bottom: 0;
   }
   
