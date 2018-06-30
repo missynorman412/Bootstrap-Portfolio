@@ -14,10 +14,19 @@
   }
   
   h3 {
+    padding: 10px;
     font-size: 32px;
-    color: black;
+    color: white;
     
   }
+
+  a {
+    color: white;
+    font-size: 24px;
+    width: 100%;
+    text-align: right;
+  }
+
   .work h3 {
     /* position: absolute; */
     bottom: 20px;
