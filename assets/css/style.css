@@ -6,7 +6,9 @@
     /* overflow: auto; */
   }
   
- 
+ #columns{
+   column-count: 2;
+ }
   .work img {
     width: 100%;
     border:  none;
